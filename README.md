@@ -1,13 +1,13 @@
-<h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
+<h2 title="hehehe"> Hey 👋, I'm  isabel!</h2>
 
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+<a href="https://www.instagram.com/crisa_icr/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/j.sanskarr/">
+<a href="www.linkedin.com/in/isabel-cristina-renteria-7221002b7">
   <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
-<a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+<a href="https://www.facebook.com/isabelcristina.renteriamairongo?locale=es_LA">
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://github.com/user-attachments/assets/32a60340-5e9e-4ef0-9cd6-f2e5ee72f634"/>
 </a>
 
 
@@ -38,10 +38,10 @@
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="20" src="https://github.com/user-attachments/assets/3e2504a0-69d7-40e2-8384-50101a2a1bb4"> </code> React 
+
 <code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
